@@ -1,0 +1,918 @@
+X: 1
+T: The Ashplant
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+BE~E2 BAGA|BE~E2 ~G3A|BE~E2 BABd|gedB A2GA|
+BE~E2 BAGA|BE~E2 ~G3A|~B3A (3Bcd ef|gedB A2GA||
+B2eB fBeB|~B2ed BAGA|B2eB ~f3d|efdB A2GA|
+B2eB fBeB|~B2ed BAGA|(3Bcd ef ~g3a|gedB A2GA||
+
+X: 1
+T: Banshee, The
+C: James McMahon
+Z: Jeremy
+S: https://thesession.org/tunes/8#setting8
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:G2 GD EDEG|AGAB d2 Bd|eged BAGA|BAGE EDDE|
+G2 GD EDEG|AGAB d2 Bd|eged BAGA|BAGE ED D2:|
+|:ea a2 efgf|eBBA B2 Bd|eB B2 efgf|eBBA B2 Bd|
+ea a2 efgf|eBBA B2 Bd|eged BAGA|BAGE EDD2:|
+
+X: 2
+T: The Bird In The Bush
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:d2eB dB~B2|dBAB G2AG|EA~A2 BGGA|BG (3Bde g2ge|
+d2eB dB~B2|dBAB ~G3E|DEGA B2Bc|dBAc BG~G2:|
+|:(3Bcd ef g2fg|afdf gfed|Bdef ~g3b|agab ~g3a|
+bg~g2 agef|~g3e dB~B2|DEGA B2Bc|dBAc BG~G2:|
+
+X: 2
+T: The Blacksmith's
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+G2 GG DGBG|G2 Bd cAFA|G2 GG DGBG|AFDF ABcA|
+Gz G2 DGBG|G2 Bd cAFA|d2 cA BGAF|DEED Acdc:|
+d2 B2 dBGB|dB B2 deed|dB B2 dBGB|AFDF ABcA|
+d2 B2 dBGB|dB B2 deed|d2 cA BGAF|DEED ABcA:|
+
+X: 3
+T: The Bloom Of Youth
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+G2 DG EGDF|G2 BG AGEF|G2 DG EGBc|dBcA BGAF|
+G2 DG EGDF|G2 BG AGEF|G2 DG EGBc|dBAc BG G2:|
+|:gd (3ddd edcA|BdAc BE (3EEE|gd (3ddd edcA|dcAc BG G2|
+gd (3ddd edcA|BdAc BE E2|cBcd efge|dBAc BG G2:|
+
+X: 2
+T: The Boyne Hunt
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+BAFA DAFA|DAFA BE~E2|BAFA DAFA|ABde fedB|
+BAFA DAFA|DAFA BE~E2|BAFA DAFA|ABde fdd2||
+faaf afdf|gfga be~e2|faaf afdB|ABde fdd2|
+faaf afdf|gfga be~e2|fgfe d2dB|ABde fedB||
+
+X: 3
+T: The Boys Of Portaferry
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|:G2 BG Ac BA|G2AG GE DE|G2 BG AB cd|dB GB Ac BA|
+G2 BG Ac BA|G2AG GE DE|G2 BG AB cd|dB AB G3 A|
+(3Bcd gd ed gd|Bd gd eg dc|Bd gd ed ef|ge dB cA BA|
+(3Bcd gd ed gd|Bd gd eg dc|Bd gd ed ef|ge dB cA BA:|
+
+X: 1
+T: Castle Kelly
+Z: Gallopede
+S: https://thesession.org/tunes/21#setting12398
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+A2 cA ~A2 cA|GE ~E2 G2 EG|A2 cA GAcd|(3efg dB BAdB|
+A2 cA ~A2 cA|GBEF G2 EG|A2 cA GAcd|egdB BA ~A2|
+age^c ~d2 ef|cAGE ~G2 G2|age^c ~d2 cd|eaag a2 bg|
+age^c ~d2 ef|cAGE G2 EG|A2 cA GAcd|egdB BA ~A2|
+
+X: 1
+T: Concertina, The
+Z: Jeremy
+S: https://thesession.org/tunes/18#setting18
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:A2FA BAFA|A2FA BAFA|B2BA B2BA|B2BA BAFA|
+A2FA BAFA|A2FA BAFA|FABc d2dA|BAFE D4:|
+|:Addd Addd|AddA BAFA|B2BA B2BA|B2BA BAFA|
+Addd Addd|AddA BAFA|FABc d2dA|BAFE D4:|
+
+X: 1
+T: Cooleys
+C: Joe Cooley
+Z: Jeremy
+S: https://thesession.org/tunes/1#setting1
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+|:EBBA B2 EB|B2 AB dBAG|FDAD BDAD|FDAD dAFD|
+EBBA B2 EB|B2 AB defg|afec dBAF|DEFD E2:|
+|:gf|eB B2 efge|eB B2 gedB|A2 FA DAFA|A2 FA defg|
+eB B2 eBgB|eB B2 defg|afec dBAF|DEFD E4:|
+
+X: 1
+T: The Crock Of Gold
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:B3B BAGE|G3A GEDB|DEGA BAGA|B2dB BAA2|
+B3B BAGE|G3A GED2|g2fg egdB|DEGA BGG2:|
+|:eaa2 bage|a2ba gede|gedB GABd|egdB BAA2|
+eaa2 bage|a2ba gede|g2fg egdB|DEGA BGG2:|
+
+X: 1
+T: The Crooked Road To Dublin
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+G2 BG FGAF|(3GGG Ac BdcA|GBAG FGAg|fdcA dBcA|
+GBAG FGAF|GBAc BdcA|GBAG FGAg|fdcA d2 Bc|
+d~g3 fgaf|d~g3 agfe|d~g3 fgag|fdcA dBcA|
+d~g3 fgaf|d~g3 afga|bgaf gbag|fdcA BGAF|
+
+X: 5
+T: Crowley's
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+A2Ad B2dB|AD (3FED AD (3FED|AddA BABc|dfeg fedB|
+A2Ad B2dB|AD (3FED AD (3FED|A2Ad BABc|dfeg fdde||
+f2af g2fg|eA (3cBA eA (3cBA|fefa g2fg|afge fdde|
+f2af g2fg|eA (3cBA eA (3cBA|fefa gefg|afge fedB||
+
+X: 5
+T: The Donegal
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|D2 DE FEFA|dFAF BFAF|E2 EF GFGA|(3Bcd AF EGFE|
+D2 DE FEFA|dFAF ABde|(3fga ec dABG|(3FGF EF D4||
+|defg afdf|afdf a2 (3agf|edef gfed|edef g2 (3gfe|
+defg afdf|afdf abag|(3fgf (3efe dABG|(3FGF EF D4||
+
+X: 1
+T: Dowd's No. 9
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+DFAF GFEF|D2 FA dABG|F2 AF GFGB|AGFD EB,CD|
+DF F2 GFEF|DEFA dABG|F2 AF GFGB|AGFD ED D2:|
+fd d2 g2 ag|f2 df edBA|fefa gfec|dcde fddA|
+dfaf gfeg|fAdf edBA|GABG FAdB|AGFD ED D2:|
+
+X: 3
+T: Down The Broom
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+|EAAG A2Bd|eg~g2 egdc|BGGF GAGE|D2B,D GABG|
+EAAG A2Bd|eg~g2 egdg|eg~g2 dgba|gedB BAAA|
+|a2ea ageg|agbg agef|gedc BGBd|~g3a bgeg|
+a2ea ageg|agbg ageg|dg~g2 dgba|gedB BAAA|
+
+X: 2
+T: Drag Her Round The Road
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|BEED E2DE|GEDB, D2B,D|GEED E2DE|GABG ABGA|
+BE~E2 B,E~E2|GEDB, D2B,D|GEED E2DE|GABG AGEF||
+G2GF GBdc|B2BA BcBA|GFGB dedB|(3ABA GB A2(3DEF|
+G2FA GBdc|B2Ac BcBA|GFGB dedB|(3ABA GB A4||
+
+X: 1
+T: Dunmore Lasses, The
+Z: GaryAMartin
+S: https://thesession.org/tunes/462#setting39781
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+|:E3F GFGA|Be ~e2 Be ~e2|E3F GABG|A2 BA GEED|
+E3F GFGA|Beed e3f|(3gfe fd edBG|A2 BA GE E2:|
+|:gfeg fede|Be ~e2 Be ~e2|gfeg fedB|A2 BA GEE f|
+g2 eg fede|Beed e3f|(3gfe fd edBG|A2 BA GE E2:|
+
+X: 1
+T: Earl's Chair, The
+C: Pakie Moloney
+Z: b.maloney
+S: https://thesession.org/tunes/221#setting221
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:B2Bd BAFA|B2Bd BAFA|AF (3FFF DF (3FFF|AFdB AFEF|
+B2Bd BAFA|B2Bd BAFA|AFAB dcdf|edef d3z:|
+|:e2ec d2Bd|efec dFAB|e2ec d3e|fedB ADFA|
+e2ef eB (3BBB|gB (3BBB defg|afbf afef|gedB ADFA:|
+
+X: 3
+T: The Eel In The Sink
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+e2AB cdec|d2BG DGBd|e2AB cdef|gedg eAAG|
+E2AB cdec|d2BG DGBd|e2AB cdef|gedg eAAe|
+a2ea aged|cdef g2fg|a2ea agab|gedB BAAe|
+a2ea aged|cdef g2ga|ba~a2 agef|gedB BAAG|
+
+X: 2
+T: The Fairy Dance
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|~f2dg ~f2dg|~f2dB cdeg|~f2df gfed|cABc dfag|
+fAdg fAdg|fAdB cdeg|(3fga df gfed|cABc d2~f2|
+aAdf bagf|(3gfe ce aeAg|fdBd gfed|cABc d2~f2|
+a2 (3fga bagf|(3gfe ce Aceg|fdBd gfed|cA (3GFE D4||
+
+X: 1
+T: Far From Home
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:GEDE G3A|B2BA Bcd2|GEDE G3B|AGAB AGE2|
+GEDE G2GA|B2BA Bcd2|edef gedc|BGAF G4:|
+|:g3e f3d|edef edB2|gedB G2GB|AGAB AGE2|
+GEDE G2GA|B3A Bcd2|edef gedc|BGAF G4:|
+
+X: 1
+T: Father Kelly's
+C: Father P.J. Kelly
+Z: Mark de Jong
+S: https://thesession.org/tunes/791#setting791
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:f2 df edBd|Addc defa|g2 ef gfed|Beed efge|
+f2 df edBd|Addc defg|a2 fa a2 fa|gece d4:|
+|:a2 fa dafa|a2 fa dafa|fBBB edcB|ABcd edcB|
+a2 fa dafa|a2fa dafa|g2 eg f2 df|edce d4:|
+
+X: 1
+T: Fermoy Lasses, The
+Z: Flutey
+S: https://thesession.org/tunes/219#setting12900
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+GE ~E2 BE ~E2|GFGA B2BA|GE ~E2 BE ~E2|AFDF AcBA|
+GE ~E2 BE ~E2|GFGA B2BA|~G3F GBdB|AFDF AcBA||
+G2 BG dGBG|G2 Bd efg2|G2 BG dGBG|AFDF AcBA|
+G2 BG dGBG|G2 Bd efg2|afge fded|AFDF AcBA||
+
+X: 2
+T: The Flogging
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:B~G3 BGdG|B~G3 (3Bcd gd|B~G3 BdcB|AGFG ABcA:|
+|:~g3d BGBd|~g3d fgaf|~g3d BGBd|AGFG ABcA:|
+|:(3Bcd gd Bdgd|Bdgd BGG2|Ac=fc Ac=fc|Ac=fc A=FF2|
+(3Bcd gd Bdgd|Bdef ~g3a|bgaf gdBd|AGFG ABcA||
+
+X: 1
+T: The Galtee Rangers
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|AFFE FEDE|~F3E F2dB|AFFE FEDE|F2BF FEE2|
+AFFE FEDE|~F3E F2dB|AFFE FEDE|F2EG FDD2||
+A3B A~F3|ABde fee2|fedB ABdB|ABde fedB|
+A3B A~F3|ABde fee2|fedB ABdB|ABde fedB||
+
+X: 1
+T: The Galway Rambler
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+(3GGG dG eGdG|(3GGG dB AGEF|GFGA BABd|gedB AGEF|
+(3GGG dG eGdG|(3GGG dB AGEF|GFGA BABd|gedB A2 Bd||
+gfgb a2ab|gabg agef|~g3 b a2ab|gedB A2 Bd|
+gabg gabg|gabg a2ga|bgag (3efg fa|gedB AGEF||
+
+X: 3
+T: George Whites Favourite
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|BF~F2 BFAF|EDEF DB,A,B,|DF~F2 DEFA|BFAF E2FA|
+BF~F2 BFAF|EDEF DB,A,B,|DEFA dBAF|EDEF D4:|
+|dBAB defe|~d3e dBAB|ABde fded|Beed e2de|
+fdBd ~A3B|dBAB defe|d2dA BdAF|EDEF D4:|
+
+X: 6
+T: The Gladstone
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+BGcA defg|G2 BG AFDc|BGcA defg|dBcA G3c|
+BGcA defg|G2 BG AFDc|BGcA defg|dBcA G3d||
+geag fdgf|ecfe dBed|cAdc BGcB|AGFA GABd|
+geag fdgf|ecfe dBed|cAdc Bdge|dBcA G3c||
+
+X: 2
+T: The Glass Of Beer
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|BE E2 BEdE|BE E2 A2 GA|BE E2 B3A|GBdB A2 GA|
+BE E2 BEdE|BE E2 A2 GA|BE E2 B3A|GBdB A2 BA||
+G3A B3A|GABG AGED|G3A B3A|GBdB A2 BA|
+G3A B3A|GABG AGED|G3A B3A|GBdB A2 GA||
+
+X: 1
+T: The Green Fields Of Rossbeigh
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+BE(3EDE BAFA|ABde fded|BE(3EDE BAFA|(3BcB AF E2dc|
+BE(3EDE BAFA|ABde fded|BE(3EDE BAFA|BFAF E2FA:|
+(3Bcd ef g2fe|dB(3BAB dBAd|(3Bcd ef gfge|dBAF E2ef|
+gfga gfeg|fefg fedB|ABde fgfe|dBAF E2FA:|
+
+X: 3
+T: The Hare's Paw
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|G2GA B2Bd|B2BA E2ED|G2GA BABd|efgf edBA|
+G2GA B2Bd|B2BA E3D|G2GA BABd|egfd e2ef|
+gfaf gfed|Bdfd B2ef|gfaf gfed|Bdef e2ef|
+gfaf gfed|Bdfd B2ef|bgaf gfed|efgf edBA|
+
+X: 5
+T: The High
+R: reel
+M: 4/4
+L: 1/8
+K: Amix
+|:a2 fa ec A2|cded cAA2|a2 fa ec A2|Bcdc BG G2|
+a2 fa ec A2|cdef g2 fg|afge fdec|Bcdc BG G2:|
+|:cAeA fAeA|cAaf ec BA|cAeA fAeA|Bcdc BG G2|
+cAeA fAeA|cdef g2 fg|afge fdec|Bcdc BG G2:|
+
+X: 5
+T: The Holy Land
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+~B3d A2Bc|dFF2 DFAd|BGGF GABd|eaag fddc|
+ABBd A2Bc|dFF2 DFAd|BGGF GABd|eaag fdde|
+f2dc dfaf|gfed (3Bcd eg|f2dc dfaf|gfeg fdde|
+f2dc dfaf|gfed (3Bcd ef|dfaf g2fg|afge fedc|
+
+X: 1
+T: Humours Of Tulla, The
+Z: JACKB
+S: https://thesession.org/tunes/141#setting13464
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+G2DG EGDE|G2BG AGEF|G2DG EGDG|(3EFG AB c2BA|
+G2DG EGDE|G2BG AGEF|G2DG EGDG|(3EFG AB c2BA||
+dB B2 GB B2|dB B2 cA A2|dB B2 GBAG|(3EFG AB c2Bc|
+dB B2 GB B2|dB B2 cA A2|dB B2 GBAG|(3EFG AB c2Bc||
+
+X: 2
+T: Jenny's Wedding
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+(3DDD FD ADFD|Acde fded|cAAB =c2=cd|eaag edd_d|
+(3DDD FA defd|cAAB cdeg|fdec d2cA|BdcA FDDz:|
+|:d2fd a2fd|ecAB cdec|d2fd a2fd|cdeg fdd2|
+d2fd a2fd|cdef g2fg|(3agf ge fdec|dfeg fddz:|
+
+X: 1
+T: Kitty Goes A-Milking
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|dG G2 d2 cA|dG G2 FGAB|dG G2 d2 eg|fdcA GABc|
+dG G2 d2 cA|dG G2 FGAB|dG G2 d2 eg|fdcA GABc|
+dg g2 ag g2|dggf d2 cA|dg g2 ag g2|dcAB c2 Bc|
+dg g2 ag g2|dggf d2 cA|defg a3 g|fdcA G4|
+
+X: 4
+T: The Lady On The Island
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+BAFB AFEF|D2FA BAFd|BAFB A3B|defd efdB|
+BAFB AFEF|D2 FA BAdB|BAFB A3B|defd e3f||
+d2fd efge|afdf edBA|d2fd efge|afdf e3f|
+d2fd efge|afdf edBA|defg a3b|afdf efdB||
+
+X: 4
+T: The Lansdowne Lass
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:GAB2 gedB|GAB2 GBAG|EGDG GFGA|Bdeg dBAB|
+GAB2 gedB|GAB2 GBAG|EGDG GFG2|Bdeg dBG2:|
+|:GABG GGdG|GGg2 fged|Bdg2 fged|Bdea aga2|
+gab2 abag|edg2 fged|BGDG GGGA|Bdge dBG2:|
+
+X: 3
+T: The Longford Collector
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+GFGA BABd|eB B2 eBdB|G3A BABd|(3cBA BG AGED|
+G3A Bcdg|eB B2 d2ef|gbaf gedB|AcBA GEDE||
+g3f gedg|eB B2 d2ef|g2af gedB|AcBA GEDE|
+gfga gedg|eB B2 d2 ef|gbaf gedB|AcBA GE D2||
+
+X: 4
+T: The Longford Tinker
+R: reel
+M: 4/4
+L: 1/8
+K: Bmin
+B3A B2dB|ABde gfed|~A2FB A2dB|ABde gfed|
+eBBA B2dB|ABde gfed|~A2FB A2dB|ABdf gece||
+d2fd egfe|dfaf g2fe|d2fd eg~g3|fa~a2 bgec|
+d2fd egfe|dfaf g3a|bagf gfed|Bdef gfed||
+
+X: 1
+T: Lucky In Love
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|g2 gd BGGA|BGdB BAAB|gfgd BGAB|cBAc BG G2|
+efed BGGA|BGdB BAAB|g2 gd BGAB|ceAc BGGA|
+BGdG eGdG|BGdB BAAc|BGdG eGdG|BdAc BGGA|
+BGdG eGdG|BGdB BAAB|GABd eaag|fdef gabg|
+
+X: 1
+T: MacLeod's Farewell
+C: Donald Shaw
+Z: ceolachan
+S: https://thesession.org/tunes/518#setting13460
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+F2 BF AFEF|D2 DE FABd|e2 fd efed|B2 de dBAG|
+F2 BF AFEF|D2 DE FABd|e2 fd efdB|ABde d4:|
+A3 f edfd|A3 f edfd|ABdA BdAB|dBAF EFDE|
+F2 BF AFEF|D2 DE FABd|e2 fd efdB|ABde d4:|
+
+X: 1
+T: Maid Behind The Bar, The
+Z: Jeremy
+S: https://thesession.org/tunes/64#setting64
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:FAAB AFED|FAAB ABde|fBBA Bcde|fBBA BcdA|
+FAAB AFED|FAAB ABde|fBBA BcdB|AFEF D4:|
+|:faab afde|fdad fd d2|efga beef|gebe gfeg|
+fgaf bfaf|defd e2 de|fBBA BcdB|AFEF D4:|
+
+X: 1
+T: Man Of The House, The
+Z: gian marco
+S: https://thesession.org/tunes/222#setting824
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+E2BE GABG|E2BG AFDB|E2BE GABe|dBBA BEED|
+E2BE GABG|E2BG AFD2|EBBA GABc|dBcA BEE2||
+efge f2af|gfed edBd|efge fedB|e2BA BEE2|
+efge f2af|gfed edBd|bgaf gefd|e2BA GEFD||
+
+X: 1
+T: Merry Blacksmith, The
+Z: Jeremy
+S: https://thesession.org/tunes/72#setting72
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:d2dA BAFA|ABdA BAFA|ABde fded|Beed egfe|
+d3A BAFA-|ABdA BAFA-|ABde fdec|dBAF D4:|
+|:a2ag f2fe|d2dA BAFA-|ABde fded|Beed egfg|
+abag fgfe|dcdA BAFA|ABde fdec|dBAF D4:|
+
+X: 1
+T: Miss McLeod's
+Z: Jeremy
+S: https://thesession.org/tunes/75#setting75
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:G2 BG AGBG|B2 BA BcBA|G2 BG AGBG|A2 AG AcBA|
+G2 BG AGBG|B2 BA B2 d2|e2 ef edef|gfed BcBA:|
+|:G2 gf edeg|B2 BA BcBA|G2 gf edeg|a2 ag aeef|
+g2 gf edeg|BcBA B2 d2|edef edef|gfed BcBA:|
+
+X: 4
+T: Miss Monaghan
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:D2 (3FED FA A2|BcBA FABc|d2 dB Acde|fede fe e2|
+D2 (3FED FA A2|BcBA FAAc|d2 dB AcdB|AFEG FD D2:|
+|:faab afdf|gefd edBc|d2 dB ABde|fede fe e2|
+fgab afdf|(3gag fd edBc|d2 dB ABde|fede fd d2:|
+
+X: 1
+T: Molly Bán
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+EBBA B2 AG|FDAD BDAD|EBBA B2 Bc|dBAF BAGF|
+EBBA B2 AG|FDAD BDAD|EBBA B2 Bc|dBAF GE E2:|
+e2 Be edeg|dBBc d3 d|e2 Be edeg|dBAF GE E2|
+eBGB effe|dBBc d3 e|f3 e defe|dBAF GE E2:|
+
+X: 2
+T: The Morning Star
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:B2 BA BGEF|G2Bd efgd|B2BA BGEF|GBAF G2GA|
+B2BA BGEF|GABd efgd|B2 BA BGEF|GBAG G4:|
+|:Bdef g2 ef|f2df edBA|Bdef gfga|afdfe2ed|
+Bdefg2eg|f2ef edBA|Bdd{e}c deef|g{e}faf e4:|
+
+X: 1
+T: Mountain Road, The
+C: Michael Gorman
+Z: Jeremy
+S: https://thesession.org/tunes/68#setting68
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+F2 AF BFAF|F2 AF EFDE|F2 AF BFAF|G2 FG EFDE|
+F2 AF BFAF|F2 AF EFD2|FAA2 BAFA|BABd eddA|
+d2dA BAFA|d2 de fgfe|d2 dA BAFA|G2 FG EDFA|
+d2 dA BAFA|d2 de fgfe|d2 dA BAFA|G2 FG EFDE|
+
+X: 1
+T: Mulqueeney's
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|F2 EG FDDG|FDAG FDDE|F2 EG FDDG|FABc dBAG|
+F2 EG FDDG|FDAG FDDE|F2 EG FDDG|FABc d2 cd|
+e4 efed|cdef g2 fg|a2e2 efed|cABc d2 cd|
+e2 e2 efed|cdef g2 fg|a2f2 g2 e2|dfec dBAG|
+
+X: 2
+T: Music In The Glen
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:G2BG EGDC|B,DGB AGAB|C2EC B2DB|AGAB AGEF|
+G2BG EGDC|B,DGB AGAB|cdef gfge|dcBA G4:|
+|:B2dB eBdB|B2dB ABGA|B2dB eBde|gdBG AGEG|
+B2dB eBdB|g2fg agef|g2fg egdB|cABG AGEF:|
+
+X: 3
+T: The New Mown Meadows
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+|:BEED E2FA|B2cA BAFA|BE~E2 FEDF|A2BA FEFA|
+BEED E2FA|B2cA BAFA|d3B c3B|A2BA FEFA:|
+|:e2ce fece|e2cA BAFA|e2ce fecB|AcBc AFE2|
+e2ce fece|e2cA BAFA|d3B c3B|A2BA FEFA:|
+
+X: 2
+T: The Old Blackthorn
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:d2 FB AFEF|D2 dc BABc|dF F2 AF F2|AFEF D2 fe|
+d2 FB AFEF|D2 dc BABc|dF F2 AF F2|AFEF D4:|
+|:defd (3efg ec|A2 cA EAcA|defg e2 fg|abag fgfe|
+defd (3efg ec|A2 cA eAcA|defg e2 fg|abag fgfe:|
+
+X: 4
+T: The Old Maids Of Galway
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|eB~B2 eBdB|A2GA Bddg|eB~B2 eBdB|ABGA BGG2|
+eB~B2 eBdB|A2GA BGGF|G2Bd egdB|ABGA BGGG||
+|gbag egdg|bgag ea~a2|gbag egdB|ABGA BGG2|
+gbag egdg|bgag ea~a2|g2fg egdB|ABGA BGGG||
+
+X: 1
+T: Pigeon On The Gate, The
+Z: JACKB
+S: https://thesession.org/tunes/517#setting26465
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+|BE E2 BEdE|BE E2 dBAF|D2 (3FED ADFE|DEFA BAFA|
+BE E2 BEdE|BE E2 B2 AF|D2 FA dfec|dBAF E4:|
+|Beed efed|(3Bcd ef gedB|Addc d3B|A2 FE DEFA|
+Beed efed|(3Bcd ef g2 fg|af (3gfe fd ec|dBAF E4:|
+
+X: 5
+T: Poor But Happy At 53
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|:EFGA BE E2|c2 Bc BE E2|DEFG AD D2|ADBD A2 GF|
+EFGA B2 ed|edBG A2 GA|BAGB AF F2|GEFD E2 E2:|
+|:edBA B2 ef|gfed BA (3Bcd|e3f g3e|f3d e2 ef|
+(3gfe fd edBA|BGAF GE E2|BAGB AF F2|GEFD E4:|
+
+X: 3
+T: The Pretty Girls Of Mayo
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+DG G2 A2 de|fdge fdcA|DG G2 A2de|fdcA AGFA|
+DG G2 A2 de|fdge fdcA|DG G2 A2de|fdcA AGBd||
+g2 ag fddc|ABcA dBcA|g2 ag fdde|fdcA AG G2|
+g3e fdde|fdge fdd^c|defg abag|fdcA BGAF||
+
+X: 1
+T: The Primrose Lasses
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+B3A G3E|DEGA BAA2|dBAB GAGE|DFGA BGG2|
+B3A G3E|DEGA BAA2|dcBA GFED|DFGA BGG2:|
+Bdgd edgd|Bdgd eAA2|Bdgd edgd|BdAc BGG2|
+Bdgd edgd|Bdgd eAA2|Bdef gage|dBAc BGG2:|
+
+X: 1
+T: The Reconciliation
+R: reel
+M: 4/4
+L: 1/8
+K: Amaj
+|:A2cA eA fA|eA fA ec Bc|A2cA eA fA|ec Bc AF EF|
+A2cA eA fA|eA fA ec Bc|AB AF Ec df|ec Bc A2 cB:|
+|:A2ce a2af|ef ed cd cB|A2ce a2ag|fb ba gb eg|
+ag ae fa ec|dB cA BA FG|AB AF Ec df|ec Bc A2 cB:|
+
+X: 1
+T: The Reel Of Rio
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:DEGA BABd|egg2 agef|gede gedB|AcBA GEE2|
+DEGA BABd|egg2 agef|gede gedB|AcBA G4:|
+|:dgg2 bgg2|bgag edBd|eBB2 GABd|e2dB AGEG|
+DEGA BABd|egg2 agef|gede gedB|AcBA G4:|
+
+X: 1
+T: Saint Anne's
+Z: Jeremy
+S: https://thesession.org/tunes/103#setting103
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:fedf edcB|A2FA DAFA|B2GB EBGB|A2FA DAFA|
+fedf edcB|A2FA DAFA|BGed cABc|eddc d2 de:|
+|:f2fg fedc|Bggf g2gf|edcB ABce|baa^g abag|
+f2fg fedc|Bggf g2gf|edcB ABcd|eddc d2 de:|
+
+X: 1
+T: Sally Gardens, The
+Z: Jeremy
+S: https://thesession.org/tunes/98#setting98
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:G2GA BAGB|dBeB dBAB|d2Bd efge|dBAB GEDE|
+GFGA BAGB|d2eB dBAB|d2Bd efge|dBAB G4:|
+|:dggf g2de|g2bg ageg|eaag a2eg|a2bg ageg|
+dggf g2de|g2bg ageg|d2Bd efge|dBAB G4:|
+
+X: 5
+T: SG2
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:G2 DG B2 GB|dBeB dBAB|d2 (3Bcd efge|dBAB GEDE|
+G2 DG B2 GB|dBeB dBAB|d2 (3Bcd efge|dBAB G4:|
+|:dggf g2dg|g2 bg ageg|eaag a2ea|a2 bg ageg|
+dggf g2dg|g2 bg ageg|d2 (3Bcd efge|dBAB G4:|
+
+X: 5
+T: SG3
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:G2 DG B2 GB|dBeB dBAB|d2 (3Bcd efge|dBAB GEDE|
+G2 DG B2 GB|dBeB dBAB|d2 (3Bcd efge|dBAB G4:|
+|:dggf g2dg|g2 bg ageg|eaag a2ea|a2 bg ageg|
+dggf g2dg|g2 bg ageg|d2 (3Bcd efge|dBAB G4:|
+
+X: 1
+T: Ships Are Sailing, The
+Z: TJ
+S: https://thesession.org/tunes/543#setting47707
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+|:Beed BcdB|AD (3FED AD (3FED|~E3F ~G3A|Beef gfed|#
+Beed BcdB|AD (3FED AD (3FED|EDEF GFGA|Beed e3f:|
+|:~g3a bgeg|~f3g afdf|~g3a bgeg|fedf e2ef|
+~g3a bgeg|~f3g afdf|g2bg f2af|edef gfef:|
+
+X: 1
+T: Silver Spear, The
+Z: Kenny
+S: https://thesession.org/tunes/182#setting12831
+R: reel
+M: 4/4
+L: 1/8
+K: Amaj
+CE E2 FECE|cABA FAED|CE E2 FECE|cABA F2 ED|
+CE E2 FECE|cABA FABc|dFBd cEAc|BAFE FA A2:|
+ce e2 df f2|ecAc BcAB|ce e2 df f2|ecAc B2 AB|
+ce e2 df f2|ecAc BEAc|dFBd cEAc|BAFE FA A2:|
+
+X: 1
+T: Sligo Maid, The
+Z: slainte
+S: https://thesession.org/tunes/399#setting13246
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+|A2BA Bdef|gedB AGEF|G2BG dGBG|DEGA BAGB|
+A2BA Bdef|gedB AGEG|B2GB ABGE|DEGA BAAA:|
+|eaag a2ga|b2gb abge|dggf g3e|dega b2ag|
+eaag a2ga|b2gb abge|dg~g2 edBd|efgd BAAA:|
+
+X: 1
+T: Star Of Munster, The
+Z: Jeremy
+S: https://thesession.org/tunes/197#setting197
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+|:c2Ac B2GB|AGEF GEDG|EAAB cBcd|eaaf gfed|
+cBAc BAGB|AGEF GEDG|EAAB cded|cABG A4:|
+|:eaab ageg|agbg agef|gfga gfef|gfaf gfdf|
+eaab ageg|agbg agef|g2ge a2ga|bgaf geee:|
+
+X: 1
+T: Swinging On The Gate
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+gedB G2AB|cABG AGEG|DGBd g2fg|eaag fdef|
+gedB G2AB|cABG AGEG|cABG AGEG|DGGF GABd:|
+|:~g3a bgaf|gfed cBAG|EAAB cBAG|(3EFG AB cdef|
+~g3a bgaf|gfed cBAB|cABG AGEG|DGGF GABd:|
+
+X: 1
+T: Tam Lin
+C: Davey Arthur
+Z: bogman
+S: https://thesession.org/tunes/248#setting12961
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+B2 eB gBeB|c2 ec gcec|d2 fd adfd|gfed Beed|
+B2 eB gBeB|c2 ec gcec|d2 fd adfd|gfed Be e2:|
+eB ~B2 GBEB|eB ~B2 GBEB|dA ~A2 FA ~A2|dA ~A2 defd|
+eB ~B2 GBEB|eB ~B2 GBEB|~c3 B cdef|gefd Be e2:|
+
+X: 1
+T: Tarbolton, The
+Z: b.maloney
+S: https://thesession.org/tunes/560#setting560
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+|Eeed e2 BA|GBAF GFEF|Dddc d2 AF|GBAG FDDF|
+Eeed efge|fedf edBA|GABG FGA=c|BGAF GE EE:|
+gfef (3gfe be|gebe gfef|d2 fd adfd|ABAG FDDF|
+(3GGG BG (3FFF AF|Eeef gfed|B2 dB AGFA|BGAF GE EE:|
+
+X: 8
+T: Tommy Peoples'
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+G2 BG cABG|AD D2 FGAF|G2 BG cABG|Addc BGGF|
+G3B c3B|AD D2 FGAF|G3B cABG|Addc BGGf||
+g2dg egde|g2dg eaaf|g2dg egdB|cAdc BGGf|
+g2dg egde|g2dg eaaf|g2dg egdB|cAdc BGGF||
+
+X: 1
+T: Toss The Feathers
+Z: ans76
+S: https://thesession.org/tunes/113#setting27577
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+FBBB dBBA|FBBA FEFA|BEEE BABc|dffe dBAG|
+EBBB d2BA|FBBA FEFA|BEEE BABc|dffe dBAG:|
+Beed e2de|fede fe e2|feb2 fede|fede fe e2|
+Beed efge|fede fa a2|abba faaf|effe dBA2:|
+
+X: 1
+T: Wind That Shakes The Barley, The
+Z: Jeremy
+S: https://thesession.org/tunes/116#setting116
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+A2AB AFED|B2BA BcdB|A2AB AFED|gfed BcdB|
+A2AB AFED|B2BA BcdB|A2AB AFED|gfed Bcde||
+f2fd g2ge|f2fd Bcde|f2fd g2fg|afed Bcde|
+f2fd g2ge|f2fd Bcde|defg a2ab|afed BcdB||
+
+X: 1
+T: Wise Maid, The
+Z: Jeremy
+S: https://thesession.org/tunes/118#setting118
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:F2FG FEDE|FAAB AFED|d2eg fdec|dBAG BEED|
+F2FG FEDE|FAAB AFED|d2eg fdec|dBAG FDDD:|
+|:d2AG FDFA|dfaf gfeg|fedf eAcA|dfed cA A2|
+BAGB ADFD|dfaf gfed|Bdce dBAG|FGEF D4:|
+
+X: 1
+T: The Woman Of The House
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:DBBA B2BA|GABd eBdB|(3ABA GB A2(3Bcd|eB(3BAB eBdB|
+DBBA B2BA|GABd eBdB|GABG (3ABA GA|BGAG EGD2:|
+|:f2fd edBd|edge dABd|f2fd edBd|eaag ea(3aba|
+f2fd edBd|g2ge dcBA|GABG (3ABA GA|BGAG EGD2:|
