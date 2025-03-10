@@ -58,15 +58,15 @@ def constructor(tune,instrument,duration= .2):
     for i in tune.tones:
         frequency = 261.6*2**(i/12) # low c root
         if instrument == 'piano':
-            waveform = piano_note(frequency,duration,44100)
+            waveform = piano_note(frequency,duration,8000)
         elif instrument == 'banjo':
-            waveform = banjo_note(frequency,duration,44100)
+            waveform = banjo_note(frequency,duration,8000)
         elif instrument == 'sine':
-            waveform = sine_note(frequency,duration,44100)
+            waveform = sine_note(frequency,duration,8000)
         elif instrument == 'naked sine':
-            waveform = sine_note(frequency,duration,44100,envel=False)
+            waveform = sine_note(frequency,duration,8000,envel=False)
         else:
-            waveform = piano_note(frequency,duration,44100)
+            waveform = piano_note(frequency,duration,8000)
             inst = False
         construction.append(waveform)
     if inst == False:

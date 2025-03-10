@@ -35,13 +35,13 @@ d2eB dB~B2|dBAB ~G3E|DEGA B2Bc|dBAc BG~G2:|
 bg~g2 agef|~g3e dB~B2|DEGA B2Bc|dBAc BG~G2:|
 
 X: 2
-T: The Blacksmith's
+T: The Blacksmith's Daughter
 R: reel
 M: 4/4
 L: 1/8
 K: Gmaj
 G2 GG DGBG|G2 Bd cAFA|G2 GG DGBG|AFDF ABcA|
-Gz G2 DGBG|G2 Bd cAFA|d2 cA BGAF|DEED Acdc:|
+GG G2 DGBG|G2 Bd cAFA|d2 cA BGAF|DEED Acdc:|
 d2 B2 dBGB|dB B2 deed|dB B2 dBGB|AFDF ABcA|
 d2 B2 dBGB|dB B2 deed|d2 cA BGAF|DEED ABcA:|
 
@@ -218,7 +218,7 @@ M: 4/4
 L: 1/8
 K: Dmaj
 |:B2Bd BAFA|B2Bd BAFA|AF (3FFF DF (3FFF|AFdB AFEF|
-B2Bd BAFA|B2Bd BAFA|AFAB dcdf|edef d3z:|
+B2Bd BAFA|B2Bd BAFA|AFAB dcdf|edef d3d:|
 |:e2ec d2Bd|efec dFAB|e2ec d3e|fedB ADFA|
 e2ef eB (3BBB|gB (3BBB defg|afbf afef|gedB ADFA:|
 
@@ -412,9 +412,9 @@ M: 4/4
 L: 1/8
 K: Dmaj
 (3DDD FD ADFD|Acde fded|cAAB =c2=cd|eaag edd_d|
-(3DDD FA defd|cAAB cdeg|fdec d2cA|BdcA FDDz:|
+(3DDD FA defd|cAAB cdeg|fdec d2cA|BdcA FDDD:|
 |:d2fd a2fd|ecAB cdec|d2fd a2fd|cdeg fdd2|
-d2fd a2fd|cdef g2fg|(3agf ge fdec|dfeg fddz:|
+d2fd a2fd|cdef g2fg|(3agf ge fdec|dfeg fddd:|
 
 X: 1
 T: Kitty Goes A-Milking
@@ -916,3 +916,14 @@ K: Gmaj
 DBBA B2BA|GABd eBdB|GABG (3ABA GA|BGAG EGD2:|
 |:f2fd edBd|edge dABd|f2fd edBd|eaag ea(3aba|
 f2fd edBd|g2ge dcBA|GABG (3ABA GA|BGAG EGD2:|
+
+X: 1
+T: John Kelly's
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+|:Beed BcdB|~B2AG EFGA|Beed BcdB|~B2AF D2FA:|
+|:Beed BcdB|~B2AG EFGA|Beed BcdB|~B2AF D2FA:|
+Beec d2fd|edBc dBA2|Beec d2fd|edBc ~d3A|
+Beec d2fd|edBc dBA2|eg{a}ge ~f3e|dBAB e3A||
