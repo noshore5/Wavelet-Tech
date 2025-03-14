@@ -468,7 +468,7 @@ L: 1/8
 K: Bmin
 B3A B2dB|ABde gfed|~A2FB A2dB|ABde gfed|
 eBBA B2dB|ABde gfed|~A2FB A2dB|ABdf gece||
-d2fd egfe|dfaf g2fe|d2fd eg~g3|fa~a2 bgec|
+d2fd egfe|dfaf g2fe|d2fd eg~2g|fa~a2 bgec|
 d2fd egfe|dfaf g3a|bagf gfed|Bdef gfed||
 
 X: 1
@@ -579,7 +579,7 @@ K: Dmaj
 |:B2 BA BGEF|G2Bd efgd|B2BA BGEF|GBAF G2GA|
 B2BA BGEF|GABd efgd|B2 BA BGEF|GBAG G4:|
 |:Bdef g2 ef|f2df edBA|Bdef gfga|afdfe2ed|
-Bdefg2eg|f2ef edBA|Bdd{e}c deef|g{e}faf e4:|
+Bdefg2eg|f2ef edBA|Bdd{}c deef|g{}faf e4:|
 
 X: 1
 T: Mountain Road, The
@@ -926,4 +926,4 @@ K: Edor
 |:Beed BcdB|~B2AG EFGA|Beed BcdB|~B2AF D2FA:|
 |:Beed BcdB|~B2AG EFGA|Beed BcdB|~B2AF D2FA:|
 Beec d2fd|edBc dBA2|Beec d2fd|edBc ~d3A|
-Beec d2fd|edBc dBA2|eg{a}ge ~f3e|dBAB e3A||
+Beec d2fd|edBc dBA2|egge ~f3e|dBAB e3A||
