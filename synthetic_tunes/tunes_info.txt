@@ -1,0 +1,80 @@
+The Ashplant, Edor, 0
+Banshee, The, Gmaj, 1
+The Bird In The Bush, Gmaj, 2
+The Blacksmith's Daughter, Gmaj, 3
+The Bloom Of Youth, Gmaj, 4
+The Boyne Hunt, Gmaj, 5
+The Boys Of Portaferry, Emin, 6
+Castle Kelly, Ador, 7
+Concertina, The, Dmaj, 8
+Cooleys, Edor, 9
+The Crock Of Gold, Gmaj, 10
+The Crooked Road To Dublin, Gmaj, 11
+Crowley's, Dmaj, 12
+The Donegal, Dmaj, 13
+Dowd's No. 9, Dmaj, 14
+Down The Broom, Ador, 15
+Drag Her Round The Road, Emin, 16
+Dunmore Lasses, The, Edor, 17
+Earl's Chair, The, Dmaj, 18
+The Eel In The Sink, Ador, 19
+The Fairy Dance, Dmaj, 20
+Far From Home, Gmaj, 21
+Father Kelly's, Dmaj, 22
+Fermoy Lasses, The, Emin, 23
+The Flogging, Gmaj, 24
+The Galtee Rangers, Dmaj, 25
+The Galway Rambler, Gmaj, 26
+George Whites Favourite, Dmaj, 27
+The Gladstone, Gmaj, 28
+The Glass Of Beer, Emin, 29
+The Green Fields Of Rossbeigh, Edor, 30
+The Hare's Paw, Gmaj, 31
+The High, Amix, 32
+The Holy Land, Dmaj, 33
+Humours Of Tulla, The, Gmaj, 34
+Jenny's Wedding, Dmaj, 35
+Kitty Goes A-Milking, Gmaj, 36
+The Lady On The Island, Dmaj, 37
+The Lansdowne Lass, Gmaj, 38
+The Longford Collector, Gmaj, 39
+The Longford Tinker, Bmin, 40
+Lucky In Love, Gmaj, 41
+MacLeod's Farewell, Dmaj, 42
+Maid Behind The Bar, The, Dmaj, 43
+Man Of The House, The, Edor, 44
+Merry Blacksmith, The, Dmaj, 45
+Miss McLeod's, Gmaj, 46
+Miss Monaghan, Dmaj, 47
+Molly Bán, Edor, 48
+The Morning Star, Dmaj, 49
+Mountain Road, The, Dmaj, 50
+Mulqueeney's, Dmaj, 51
+Music In The Glen, Gmaj, 52
+The New Mown Meadows, Edor, 53
+The Old Blackthorn, Dmaj, 54
+The Old Maids Of Galway, Emin, 55
+Pigeon On The Gate, The, Edor, 56
+Poor But Happy At 53, Emin, 57
+The Pretty Girls Of Mayo, Gmaj, 58
+The Primrose Lasses, Gmaj, 59
+The Reconciliation, Amaj, 60
+The Reel Of Rio, Gmaj, 61
+Saint Anne's, Dmaj, 62
+Sally Gardens, The, Gmaj, 63
+SG2, Gmaj, 64
+SG3, Gmaj, 65
+Ships Are Sailing, The, Edor, 66
+Silver Spear, The, Amaj, 67
+Sligo Maid, The, Ador, 68
+Star Of Munster, The, Ador, 69
+Swinging On The Gate, Gmaj, 70
+Tam Lin, Emin, 71
+Tarbolton, The, Edor, 72
+Tommy Peoples', Gmaj, 73
+Toss The Feathers, Edor, 74
+Wind That Shakes The Barley, The, Dmaj, 75
+Wise Maid, The, Dmaj, 76
+The Woman Of The House, Gmaj, 77
+John Kelly's, Edor, 78
+The Sailor's Bonnet, Dmaj, 79
