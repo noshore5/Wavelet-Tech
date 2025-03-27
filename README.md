@@ -1,4 +1,4 @@
-The contents of this repository showcase the code in the Master's Thesis titled:
+The contents of this repository showcase the code in the master's thesis titled:
 Dynamic Time-Frequency Decompositions as Unique Fingerprints for Time Series Feature Extraction.
 
 The largest part of the project deals with Irish tune identification, which is main_project.ipynb in the synthetic_tunes folder.
