@@ -46,7 +46,7 @@ Man Of The House, The, Edor, 44
 Merry Blacksmith, The, Dmaj, 45
 Miss McLeod's, Gmaj, 46
 Miss Monaghan, Dmaj, 47
-Molly Bán, Edor, 48
+Molly Bï¿½n, Edor, 48
 The Morning Star, Dmaj, 49
 Mountain Road, The, Dmaj, 50
 Mulqueeney's, Dmaj, 51
@@ -62,19 +62,17 @@ The Reconciliation, Amaj, 60
 The Reel Of Rio, Gmaj, 61
 Saint Anne's, Dmaj, 62
 Sally Gardens, The, Gmaj, 63
-SG2, Gmaj, 64
-SG3, Gmaj, 65
-Ships Are Sailing, The, Edor, 66
-Silver Spear, The, Amaj, 67
-Sligo Maid, The, Ador, 68
-Star Of Munster, The, Ador, 69
-Swinging On The Gate, Gmaj, 70
-Tam Lin, Emin, 71
-Tarbolton, The, Edor, 72
-Tommy Peoples', Gmaj, 73
-Toss The Feathers, Edor, 74
-Wind That Shakes The Barley, The, Dmaj, 75
-Wise Maid, The, Dmaj, 76
-The Woman Of The House, Gmaj, 77
-John Kelly's, Edor, 78
-The Sailor's Bonnet, Dmaj, 79
+Ships Are Sailing, The, Edor, 64
+Silver Spear, The, Amaj, 65
+Sligo Maid, The, Ador, 66
+Star Of Munster, The, Ador, 67
+Swinging On The Gate, Gmaj, 68
+Tam Lin, Emin, 69
+Tarbolton, The, Edor, 70
+Tommy Peoples', Gmaj, 71
+Toss The Feathers, Edor, 72
+Wind That Shakes The Barley, The, Dmaj, 73
+Wise Maid, The, Dmaj, 74
+The Woman Of The House, Gmaj, 75
+John Kelly's, Edor, 76
+The Sailor's Bonnet, Dmaj, 77
