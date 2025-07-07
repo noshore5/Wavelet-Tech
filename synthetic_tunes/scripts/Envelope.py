@@ -2,9 +2,7 @@
 import numpy as np
 
 def adsr_envelope(attack, decay, sustain, release, sustain_level, sample_rate, duration):
-    """
-    Generate an ADSR envelope with robust handling for very short durations.
-    """
+
     total_samples = max(1, int(sample_rate * duration))
     attack_samples = max(1, int(sample_rate * attack))
     decay_samples = max(1, int(sample_rate * decay))
@@ -40,7 +38,7 @@ def piano_note(frequency, duration, sample_rate):
     envelope = adsr_envelope(adsr[0],adsr[1],adsr[2],adsr[3],.7, sample_rate, duration)
     wave *= envelope
 
-    # no noise !!!
+    # Add slight noise 
     wave += 0.001 * np.random.normal(-1, 1, len(wave))
 
     # Normalize wave
@@ -67,7 +65,7 @@ def banjo_note(frequency, duration, sample_rate):
     # Nonlinearity for brightness
     wave += 0.2 * (wave**3)
 
-    # Banjo-style ADSR envelope (shorter attack, minimal sustain, quick release)
+    # Banjo ADSR envelope (shorter attack, minimal sustain, quick release)
     adsr = [0.003, 0.08, 0.02, 0.1]
     adsr = [adsr[0]] + [(duration - adsr[0]) * (x / sum(adsr[1:])) for x in adsr[1:]]
     envelope = adsr_envelope(adsr[0], adsr[1], adsr[2], adsr[3], 0.2, sample_rate, duration)
